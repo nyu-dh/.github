@@ -1,7 +1,10 @@
 # Hello! 👋
 
-Welcome to NYU DH's WiP Code & Project Space. Check out [our new website](https://digitalhumanities.nyu.edu) for more!
+Welcome to NYU DH's code & project space. Browse our repos or check out [our new website](https://digitalhumanities.nyu.edu) for more, including:
 
-<!--<a href="https://digitalhumanities.nyu.edu">
-<img src="https://github.com/nyu-dh/.github/blob/main/media/dh-list-banner-jojo.jpeg?raw=true" alt="illustration of nyu students alongside a dh word cloud: 'design', 'maps', 'open data', etc." style="height:250px;width:auto">
-</a>-->
+- 📰 [News & Events](https://digitalhumanities.nyu.edu/news/)
+- 🌱 [Seed Grant Funding](https://digitalhumanities.nyu.edu/funding/seed-grants/)
+- 👩‍🎓 [Graduate Fellowship Funding](https://digitalhumanities.nyu.edu/funding/grad-fellowships/)
+- 🏺 [Projects](https://digitalhumanities.nyu.edu/projects/)
+- 👤 [People](https://digitalhumanities.nyu.edu/people/)
+- 🏛️ [Courses](https://digitalhumanities.nyu.edu/curriculum/courses/)
